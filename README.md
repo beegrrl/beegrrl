@@ -19,4 +19,4 @@ Product and developer marketing, positioning and messaging, go-to-market and lau
 
 Near Seattle, remote. Doctoral candidate (DBA, Strategy & Innovation). Open to leadership roles in product marketing, developer marketing, and community.
 
-[Portfolio](https://beegrrl.github.io) · [LinkedIn](https://linkedin.com/in/beegirl) · beegrrl@gmail.com
+[Portfolio](https://beegrrl.github.io) · [LinkedIn](https://linkedin.com/in/beegirl)
