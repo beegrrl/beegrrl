@@ -14,9 +14,9 @@
 
 ## What I do
 
-My core work is **positioning, messaging, and go-to-market strategy**. I carry that strategy through the developer content, education, community, and ecosystem programs that turn initial interest into understanding, adoption, and sustained engagement.
+My core work is **positioning, messaging, and go-to-market strategy**. I carry that strategy through the developer content, education, community, and ecosystem work that turns first interest into adoption and durable use.
 
-I have 15+ years across product marketing, developer marketing, and community strategy. I've held marketing roles at Salesforce and Oracle, built developer programs from the ground up at Chainlink, and most recently led go-to-market at Sui Foundation.
+I have 15+ years across product marketing, developer marketing, and community strategy. I've held marketing roles at Salesforce and Oracle, built developer marketing programs from the ground up at Chainlink, and most recently led go-to-market at Sui Foundation.
 
 My background also runs through journalism, editing, and audio production for *The Sims*. I'm a strategist who still makes the work: shaping the narrative, designing the system, writing the content, and turning the plan into something people can use.
 
@@ -32,7 +32,7 @@ My background also runs through journalism, editing, and audio production for *T
 
 `Developer strategy` · `Developer marketing` · `Product marketing`  
 `Positioning` · `Messaging` · `Go-to-market` · `Launch strategy`  
-`Developer content` · `Education` · `Community` · `Ecosystems`  
+`Content strategy` · `Developer content` · `Education` · `Community` · `Ecosystems`  
 `Open source` · `Web3` · `Institutional finance`
 
 ## Currently
@@ -43,4 +43,4 @@ My background also runs through journalism, editing, and audio production for *T
 Researching how technology companies build, and sometimes lose, the organizational capacity to innovate.
 
 🔎 **Open to leadership roles**  
-Product marketing, developer marketing, developer strategy, and community.
+Product marketing, developer marketing, developer strategy, content strategy, and community.
