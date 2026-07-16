@@ -2,7 +2,7 @@
 
 # Hi, I'm Melissa 🐝
 
-### I help developers move from reading about a product to actually using it.
+### I help developers move from reading about a product to using it.
 
 **Strategy → story → launch → adoption**
 
