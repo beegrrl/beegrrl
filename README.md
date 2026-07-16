@@ -7,7 +7,7 @@ I position developer products, build the systems that get them adopted, and keep
 **A few things I've built and run**
 
 - Positioning, messaging, and go-to-market for product and partner launches, several beating their signup targets and driving double-digit feature adoption
-- The Finance business unit GTM: a phased, 26-partner institutional launch (Sui Foundation, Mysten Labs, Walrus)
+- The Finance business unit GTM: a phased, 26-partner institutional launch (Sui Foundation)
 - A developer newsletter grown to 250K+ subscribers, plus certification and bootcamp programs with five-figure annual completions (Chainlink)
 - A developer advocate network of 250+ credentialed technical creators, with a community-tiering model (Chainlink)
 
