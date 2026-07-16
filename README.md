@@ -1,22 +1,46 @@
-# Melissa Thorne
+<div align="center">
 
-I position developer products, build the systems that get them adopted, and keep them there. Positioning, messaging, and go-to-market are the core; I extend them into the developer content, community, and ecosystem work that turns a launch into durable adoption.
+# Hi, I’m Melissa 🐝
 
-Fifteen-plus years in product marketing, developer marketing, and community strategy. I held marketing roles at Salesforce and Oracle, built developer marketing programs from zero at Chainlink, and most recently led go-to-market at Sui Foundation. I started in journalism and editing (and produced audio on The Sims early on). This function goes by a dozen names, and most teams split it into corners; I've owned the cohesive whole, from hands-on build to business-unit strategy.
+### I help developers move from reading about a product to actually using it.
 
-**A few things I've built and run**
+**Strategy → story → launch → adoption**
 
-- Positioning, messaging, and go-to-market for product and partner launches, several beating their signup targets and driving double-digit feature adoption
-- The Finance business unit go-to-market at Sui Foundation: a phased, 26-partner institutional launch
-- A developer newsletter grown to 250K+ subscribers, plus certification and bootcamp programs with five-figure annual completions (Chainlink)
-- A developer advocate network of 250+ credentialed technical creators, with a community-tiering model (Chainlink)
+[Portfolio](https://beegrrl.github.io) · [LinkedIn](https://linkedin.com/in/beegirl)
 
-**Focus**
+</div>
 
-Product and developer marketing, positioning and messaging, go-to-market and launch strategy, developer education and relations, community, and ecosystem, across open source, Web3, and institutional finance.
+---
 
-**Now**
+## What I do
 
-Near Seattle, remote. Doctoral candidate (DBA, Strategy & Innovation). Open to leadership roles in product marketing, developer marketing, and community.
+My core work is **positioning, messaging, and go-to-market strategy**. I carry that strategy through the developer content, education, community, and ecosystem programs that turn initial interest into understanding, adoption, and sustained engagement.
 
-[Portfolio](https://beegrrl.github.io) · [LinkedIn](https://linkedin.com/in/beegirl) · beegrrl@gmail.com
+I have 15+ years of experience across product marketing, developer marketing, and community strategy. I’ve held marketing roles at Salesforce and Oracle, built developer programs from the ground up at Chainlink, and most recently led go-to-market work at Sui Foundation.
+
+My background also includes journalism, editing, and audio production for *The Sims*. I’m a strategist who still makes the work: shaping the narrative, designing the system, writing the content, and turning the plan into something people can actually use.
+
+## Selected work
+
+- **Product and partner launches:** Led positioning, messaging, and go-to-market for launches that exceeded signup targets and drove double-digit feature adoption
+- **Institutional finance:** Built the go-to-market strategy for Sui Foundation’s Finance business unit, including a phased launch involving 26 partners
+- **Developer content:** Grew and edited a developer newsletter reaching 250K+ subscribers
+- **Developer education:** Built certification and bootcamp programs generating five-figure annual completions
+- **Technical community:** Developed a network of 250+ credentialed technical creators and a tiered model for supporting, activating, and advancing contributors
+
+## Areas of focus
+
+`Developer strategy` · `Developer marketing` · `Product marketing`  
+`Positioning` · `Messaging` · `Go-to-market` · `Launch strategy`  
+`Developer content` · `Education` · `Community` · `Ecosystems`  
+`Open source` · `Web3` · `Institutional finance`
+
+## Currently
+
+📍 **Seattle area · Remote**
+
+🎓 **Doctoral candidate, Strategy and Innovation**  
+Exploring how technology companies build—and sometimes lose—the organizational capacity to innovate.
+
+🔎 **Open to leadership roles**  
+Product marketing, developer marketing, developer strategy, and community.
