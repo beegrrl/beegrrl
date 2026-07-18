@@ -14,7 +14,7 @@ I position developer products, build the systems that get them adopted, and keep
 
 Product marketing is the core: audience strategy, positioning, messaging, go-to-market, and launch. I extend that work into the content, education, lifecycle, community, and ecosystem systems that turn a release into durable adoption.
 
-Fifteen-plus years across developer platforms, open source, Web3, and institutional finance. I have built developer marketing programs from zero, led technically complex launches, grown lifecycle and education systems at scale, and worked inside both DevRel and product/GTM organizations. I started in journalism and editing, and I still write the work myself.
+15+ years across developer platforms, open source, Web3, and institutional finance. I have built developer marketing programs from zero, led technically complex launches, grown lifecycle and education systems at scale, and worked inside both DevRel and product/GTM organizations. I started in journalism and editing, and I still write the work myself.
 
 ### Working models
 
