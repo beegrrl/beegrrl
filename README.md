@@ -1,46 +1,37 @@
-<div align="center">
+<h1 align="center">Melissa Thorne</h1>
 
-# Hi, I'm Melissa 🐝
+<p align="center">
+  <strong>Developer-platform product marketing · audience strategy · technical GTM · adoption systems</strong>
+</p>
 
-### I help developers move from reading about a product to using it.
+<p align="center">
+  <a href="https://beegrrl.github.io/">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/beegirl">LinkedIn</a>
+</p>
 
-**Strategy → story → launch → adoption**
+I position developer products, build the systems that get them adopted, and keep them there.
 
-[Portfolio](https://beegrrl.github.io) · [LinkedIn](https://linkedin.com/in/beegirl)
+Product marketing is the core: audience strategy, positioning, messaging, go-to-market, and launch. I extend that work into the content, education, lifecycle, community, and ecosystem systems that turn a release into durable adoption.
 
-</div>
+Fifteen-plus years across developer platforms, open source, Web3, and institutional finance. I have built developer marketing programs from zero, led technically complex launches, grown lifecycle and education systems at scale, and worked inside both DevRel and product/GTM organizations. I started in journalism and editing, and I still write the work myself.
 
----
+### Working models
 
-## What I do
+- [**The adoption journey**](https://beegrrl.github.io/adoption-journey.html) — how a release moves from first signal to repeat use, and where disconnected handoffs compound.
+- [**What is the funnel trying to tell you?**](https://beegrrl.github.io/what-is-the-funnel-trying-to-tell-you.html) — diagnosing incomplete and conflicting product, audience, search, lifecycle, and community signals.
+- [**A capability is not a launch**](https://beegrrl.github.io/a-capability-is-not-a-launch.html) — audience architecture, technical-launch readiness, scope, proof, and route-to-market decisions.
+- [**Who owns the whole?**](https://beegrrl.github.io/who-owns-the-whole.html) — a small operating-model puzzle about the work that lives between specialist teams.
 
-My core work is **positioning, messaging, and go-to-market strategy**. I carry that strategy through the developer content, education, community, and ecosystem work that turns first interest into adoption and durable use.
+### Selected proof
 
-I have 15+ years across product marketing, developer marketing, and community strategy. I've held marketing roles at Salesforce and Oracle, built developer marketing programs from the ground up at Chainlink, and most recently led go-to-market at Sui Foundation.
+- Grew and edited a developer newsletter from zero to 250K+ subscribers across five segmented audience tiers.
+- Built a global advocate network of 250+ credentialed technical creators.
+- Architected certification and bootcamp programs with five-figure completions.
+- Led product and ecosystem GTM spanning developer infrastructure, partner platforms, and institutional finance.
 
-My background also runs through journalism, editing, and audio production for *The Sims*. I'm a strategist who still makes the work: shaping the narrative, designing the system, writing the content, and turning the plan into something people can use.
+### Now
 
-## Selected work
-
-- **Product and partner launches:** Led positioning, messaging, and go-to-market for launches that beat their signup targets and drove double-digit feature adoption
-- **Institutional finance:** Built the go-to-market for a phased Sui Foundation launch across 26 partners, positioned into a regulated buyer base
-- **Developer content:** Grew and edited a developer newsletter to 250K+ subscribers
-- **Developer education:** Built certification and bootcamp tracks with five-figure annual completions
-- **Technical community:** Developed a network of 250+ credentialed technical creators on a tiered model for supporting, activating, and advancing contributors
-
-## Areas of focus
-
-`Developer strategy` · `Developer marketing` · `Product marketing`  
-`Positioning` · `Messaging` · `Go-to-market` · `Launch strategy`  
-`Content strategy` · `Developer content` · `Education` · `Community` · `Ecosystems`  
-`Open source` · `Web3` · `Institutional finance`
-
-## Currently
-
-📍 **Seattle area · Remote**
-
-🎓 **Doctoral candidate, Strategy and Innovation**  
-Researching how technology companies build, and sometimes lose, the organizational capacity to innovate.
-
-🔎 **Open to leadership roles**  
-Product marketing, developer marketing, developer strategy, content strategy, and community.
+📍 Seattle, WA · Remote  
+🎓 Doctoral candidate, DBA in Strategy & Innovation  
+🔎 Open to senior IC and lead roles in developer-platform product marketing, developer marketing, content strategy, and community.
