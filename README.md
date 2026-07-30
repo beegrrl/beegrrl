@@ -44,6 +44,6 @@ Six original strategy models, each built in a single file of vanilla HTML, CSS, 
 
 ### Now
 
-📍 Seattle, WA · Remote
-🎓 Doctoral candidate, DBA in Strategy & Innovation
+📍 Seattle, WA · Remote  
+🎓 Doctoral candidate, DBA in Strategy & Innovation  
 🔎 Open to senior IC and lead roles in technical-platform product marketing, developer marketing, positioning, launch strategy, and adoption.
