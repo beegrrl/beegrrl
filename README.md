@@ -1,7 +1,7 @@
 <h1 align="center">Melissa Thorne</h1>
 
 <p align="center">
-<strong>Product marketing for technical platforms · positioning and category narrative · technical launch GTM · adoption systems</strong>
+<strong>Technical product marketing · developer and community systems · positioning, launch, and durable adoption</strong>
 </p>
 
 <p align="center">
@@ -12,11 +12,15 @@
 
 I work where product truth becomes a market claim, and where that claim has to stay coherent across product, sales, developer relations, community, partners, and customers.
 
-Product marketing is the core: positioning, messaging, category narrative, launch, and route to market. I extend that into the enablement, education, lifecycle, and ecosystem systems that turn a release into durable adoption. 15+ years across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, and Electronic Arts. I write the technical content myself, and I use AI daily for research, competitive analysis, launch operations, and small custom tools.
+Product marketing is the core: positioning, messaging, category narrative, launch, and route to market. I extend that into the enablement, education, community, lifecycle, and ecosystem systems that turn a release into durable adoption. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, and Electronic Arts. I write the technical content myself, and I use AI daily for research, competitive analysis, launch operations, and small custom tools.
 
 ### Interactive portfolio
 
-Six original strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript: native controls, keyboard-complete interaction, reduced-motion support, and a working no-JavaScript fallback.
+Seven original strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript: native controls, keyboard-complete interaction, reduced-motion support, and a working no-JavaScript fallback.
+
+**Featured · Community strategy and program design**
+
+- [The community asked. What happens next?](https://beegrrl.github.io/the-community-asked.html) — Audit who can participate, distinguish requests from evidence, route signals to the right response, build a capacity-backed portfolio, and make the decision record visible.
 
 **Positioning**
 
@@ -40,10 +44,10 @@ Six original strategy models, each built in a single file of vanilla HTML, CSS, 
 - Led a phased, 26-partner institutional launch: partner-specific positioning and messaging, enablement, and the operating cadence across 56 stakeholders and five phases.
 - Owned positioning and launch GTM across a multi-product platform spanning oracle data, automation, and cross-chain infrastructure.
 - Grew a developer newsletter from zero to 250K+ subscribers, plus certification and bootcamp programs with five-figure completions.
-- Built and operated a 250+ member network of credentialed technical advocates, with tiering, contribution scoring, and renewal systems.
+- Built and operated a 250+ member network of credentialed technical creators, with governance, certification, mentorship, contribution pathways, recognition, and renewal.
 
 ### Now
 
 📍 Seattle, WA · Remote  
 🎓 Doctoral candidate, DBA in Strategy & Innovation  
-🔎 Open to senior IC and lead roles in technical-platform product marketing, developer marketing, positioning, launch strategy, and adoption.
+🔎 Open to senior IC and lead roles spanning technical product marketing, developer and community programs, positioning, launch strategy, and adoption.
