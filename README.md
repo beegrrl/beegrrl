@@ -18,7 +18,7 @@ Product marketing is the core: positioning, messaging, category narrative, launc
 
 Seven original strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript: native controls, keyboard-complete interaction, reduced-motion support, and a working no-JavaScript fallback.
 
-**Featured · Community strategy and program design**
+**Community strategy and program design**
 
 - [The community asked. What happens next?](https://beegrrl.github.io/the-community-asked.html) — Audit who can participate, distinguish requests from evidence, route signals to the right response, build a capacity-backed portfolio, and make the decision record visible.
 
