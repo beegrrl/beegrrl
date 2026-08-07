@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://beegrrl.github.io/">
-    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From positioning to sustained adoption. Eight original interactive models across positioning, partnerships, launch GTM, adoption, lifecycle, community, and ecosystem." width="100%">
+    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From positioning to sustained adoption. Eight interactive models across positioning, partnerships, launch GTM, adoption, lifecycle, community, and ecosystem." width="100%">
   </a>
 </p>
 
 <h1 align="center">Melissa Thorne</h1>
 
 <p align="center">
-<strong>Product, developer, and partner marketing for complex platforms · Positioning, launch GTM, adoption, lifecycle, and ecosystem growth</strong>
+<strong>Product, developer, and partner marketing for technical platforms · Positioning, launch GTM, adoption, lifecycle, community, and ecosystem growth</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ I write the work myself, from product narratives and partner plans to technical 
 
 ### Interactive portfolio
 
-Eight original strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript. They use native controls, support keyboard interaction and reduced motion, and include a working no-JavaScript fallback.
+Eight strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript. They use native controls, support keyboard interaction and reduced motion, and include a working no-JavaScript fallback.
 
 **Community strategy and program design**
 
