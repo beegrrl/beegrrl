@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://beegrrl.github.io/">
-    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From positioning to sustained adoption. Eight interactive models across positioning, partnerships, launch GTM, adoption, lifecycle, community, and ecosystem." width="100%">
+    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From strategy to repeatable growth. Original interactive models and live work across positioning, partnerships, launches, adoption, lifecycle, and operating systems." width="100%">
   </a>
 </p>
 
 <h1 align="center">Melissa Thorne</h1>
 
 <p align="center">
-<strong>Product, developer, and partner marketing for technical platforms · Positioning, launch GTM, adoption, lifecycle, community, and ecosystem growth</strong>
+<strong>Growth, GTM, and operating strategy for technical products and platforms · Positioning · Partnerships · Lifecycle · Ecosystems</strong>
 </p>
 
 <p align="center">
@@ -16,50 +16,38 @@
 <a href="https://www.linkedin.com/in/beegirl/">LinkedIn</a>
 </p>
 
-I position complex technical platforms, lead launches and partner go-to-market, and build the systems that turn first use into sustained adoption.
+I work out what is holding growth back, decide what should move next, and align product, marketing, partners, and operations around one plan.
 
-Product marketing is the anchor: positioning, segmentation, messaging, launch strategy, and the route to market. I extend that work into partner and ecosystem programs, developer education, community, lifecycle, content, and the evidence loops that show where customers get value and where the journey breaks. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony, and Electronic Arts.
+My work spans positioning, audience strategy, launch and adoption, partner ecosystems, lifecycle and CRM, community, content, program governance, and the evidence loops that show where customers get value and where the system breaks. Product marketing is one tool within that broader operating scope. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony, and Electronic Arts.
 
-I write the work myself, from product narratives and partner plans to technical education and case studies. I use AI for research, competitive analysis, content QA, automation, and rapid prototypes; the claim still has to be true and the system still has to work.
+I write the work myself, from product narratives and investment cases to partner plans, technical education, and case studies. I use AI where it improves research, analysis, review, automation, or prototyping; the claim still has to be true and the system still has to work.
 
 ### Interactive portfolio
 
-Eight strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript. They use native controls, support keyboard interaction and reduced motion, and include a working no-JavaScript fallback.
+Nine original decision models, written and built by me in vanilla HTML, CSS, and JavaScript. They demonstrate the judgment behind the work without publishing a reusable company playbook.
 
-**Community strategy and program design**
-
-- [The community asked. What happens next?](https://beegrrl.github.io/the-community-asked.html): Audit who can participate, distinguish requests from evidence, route signals to the right response, build a capacity-backed portfolio, and make the decision record visible.
-
-**Positioning**
-
-- [What the roadmap ships. What the budget feels.](https://beegrrl.github.io/roadmap-budget.html): Put the same true product claims through technical qualification, operating review, and budget approval. The facts stay fixed while the hierarchy moves.
-- [Earn the right to say it](https://beegrrl.github.io/earn-the-right-to-say-it.html): Decide what ships, what changes, what goes back to an expert, and what dies before a technical claim reaches the market.
-
-**Partnerships and growth**
-
-- [Partnership value](https://beegrrl.github.io/partnership-value.html): Test whether a partnership has a credible fit, a coherent customer experience, and a path both companies can build on.
-
-**Adoption and learning**
-
-- [The adoption journey](https://beegrrl.github.io/adoption-journey.html): Trace how handoffs between teams compound into durable use or leakage.
-- [What is the funnel trying to tell you?](https://beegrrl.github.io/what-is-the-funnel-trying-to-tell-you.html): Move from signals to diagnosis to the smallest useful test.
-
-**Launch and operating systems**
-
-- [A capability is not a launch](https://beegrrl.github.io/a-capability-is-not-a-launch.html): Separate technical readiness from the decisions required for market readiness.
-- [Who owns the whole?](https://beegrrl.github.io/who-owns-the-whole.html): See why full specialist coverage can still leave coherence unowned.
+- [What deserves the next growth dollar?](https://beegrrl.github.io/what-deserves-the-next-growth-dollar.html): Decide whether the business should spend, fix, learn, or scale next—and whether paid, organic, product-led, partner, lifecycle, or community is the right lever.
+- [What the roadmap ships. What the budget feels.](https://beegrrl.github.io/roadmap-budget.html): Choose the true product claim that should lead in technical qualification, operating review, and budget approval.
+- [Earn the right to say it](https://beegrrl.github.io/earn-the-right-to-say-it.html): Decide whether a claim is ready, needs revision, requires expert review, or lacks support.
+- [Is the partnership worth the coordination?](https://beegrrl.github.io/partnership-value.html): Test fit, customer value, and learning value on both sides before accepting the operating cost.
+- [A capability is not a launch](https://beegrrl.github.io/a-capability-is-not-a-launch.html): Match launch scope to product readiness, audience need, and the risks the organization can actually support.
+- [From first proof to repeat use](https://beegrrl.github.io/adoption-journey.html): Find where a promising first experience stops producing durable adoption.
+- [What is the funnel trying to tell you?](https://beegrrl.github.io/what-is-the-funnel-trying-to-tell-you.html): Turn mixed quantitative and qualitative evidence into the smallest useful test.
+- [The community asked. What happens next?](https://beegrrl.github.io/the-community-asked.html): Turn stakeholder input into owned decisions, a capacity-backed portfolio, and visible follow-through.
+- [Who owns the whole?](https://beegrrl.github.io/who-owns-the-whole.html): Find the connective work that remains unowned even when every specialist team is staffed.
 
 [Explore the full portfolio →](https://beegrrl.github.io/)
 
 ### Selected proof
 
-- Built 26 partner-specific go-to-market plans for a launch with 23 confirmed partners, coordinating five phases across 56 cross-functional collaborators.
-- Led developer-facing positioning and go-to-market for Chainlink CCIP, with developer marketing and adoption work supporting Functions, Data Streams, Automation, and the Cross-Chain Token standard.
-- Grew and edited a developer newsletter from zero to 250K+ subscribers across five segmented audience tiers.
-- Built and operated a 250+ member network of credentialed technical creators, with governance, certification, mentorship, contribution pathways, recognition, and renewal.
+- Built the year-ahead audience, positioning, lifecycle, partner, and integrated marketing plans for Sui's Hashi, DeepBook Predict, and Gasless Transfers launches across Devnet, Testnet, and Mainnet.
+- Turned 26 Hashi partner workstreams into coordinated go-to-market plans across a five-phase launch and 56 cross-functional collaborators.
+- Led developer-facing positioning, launch, co-marketing, and adoption work for Chainlink CCIP, with additional work across Functions, Data Streams, Automation, and the Cross-Chain Token standard.
+- Grew a segmented developer newsletter organically from zero to 250K+ subscribers and built the operating model for a 250+ member network of credentialed technical creators.
+- Shipped 45+ AAA titles as an Audio Producer at Electronic Arts, including globally distributed consumer releases in The Sims franchise.
 
 ### Now
 
-📍 Seattle, WA · Remote  
-🎓 Doctoral candidate, DBA in Strategy & Innovation  
-🔎 Open to senior IC and leadership roles across product marketing, developer and platform marketing, partner and ecosystem GTM, community and lifecycle strategy, and focused fractional work.
+📍 Seattle, WA · Remote<br>
+🎓 DBA candidate in Strategy & Innovation, researching distributed decision-making, organization design, and dynamic capabilities in rapidly scaling technology ventures<br>
+🔎 Open to senior IC and leadership roles across growth, go-to-market, product marketing, partnerships, lifecycle, technical platforms, ecosystems, strategy and operations, and select fractional work.
