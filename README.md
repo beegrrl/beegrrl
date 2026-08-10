@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://beegrrl.github.io/">
-    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From positioning to sustained adoption. Eight interactive models across positioning, partnerships, launch GTM, adoption, lifecycle, community, and ecosystem." width="100%">
+    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From strategy to repeatable growth. Original interactive models and live work across positioning, partnerships, launches, adoption, lifecycle, and operating systems." width="100%">
   </a>
 </p>
 
 <h1 align="center">Melissa Thorne</h1>
 
 <p align="center">
-<strong>Product, developer, and partner marketing for technical platforms · Positioning, launch GTM, adoption, lifecycle, community, and ecosystem growth</strong>
+<strong>Growth, GTM, and operating strategy for technical products and platforms · Product marketing · Partnerships · Lifecycle · Ecosystems</strong>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 <a href="https://www.linkedin.com/in/beegirl/">LinkedIn</a>
 </p>
 
-I position complex technical platforms, lead launches and partner go-to-market, and build the systems that turn first use into sustained adoption.
+I lead growth, go-to-market, and operating strategy for complex technical products, platforms, and portfolios. I position the product, choose the audiences and partners that matter, build the launch and adoption plan, and create the operating systems that keep cross-functional execution coherent as the work scales.
 
-Product marketing is the anchor: positioning, segmentation, messaging, launch strategy, and the route to market. I extend that work into partner and ecosystem programs, developer education, community, lifecycle, content, and the evidence loops that show where customers get value and where the journey breaks. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony, and Electronic Arts.
+Product marketing is one part of the toolkit. The broader work includes audience architecture, partner ecosystems, lifecycle and CRM, developer education, community, content, program governance, and evidence loops that show where customers get value and where the system breaks. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony, and Electronic Arts.
 
 I write the work myself, from product narratives and partner plans to technical education and case studies. I use AI for research, competitive analysis, content QA, automation, and rapid prototypes; the claim still has to be true and the system still has to work.
 
@@ -26,7 +26,7 @@ I write the work myself, from product narratives and partner plans to technical 
 
 Eight strategy models, each built in a single file of vanilla HTML, CSS, and JavaScript. They use native controls, support keyboard interaction and reduced motion, and include a working no-JavaScript fallback.
 
-**Community strategy and program design**
+**Operating strategy and program design**
 
 - [The community asked. What happens next?](https://beegrrl.github.io/the-community-asked.html): Audit who can participate, distinguish requests from evidence, route signals to the right response, build a capacity-backed portfolio, and make the decision record visible.
 
@@ -39,7 +39,7 @@ Eight strategy models, each built in a single file of vanilla HTML, CSS, and Jav
 
 - [Partnership value](https://beegrrl.github.io/partnership-value.html): Test whether a partnership has a credible fit, a coherent customer experience, and a path both companies can build on.
 
-**Adoption and learning**
+**Growth, adoption, and lifecycle**
 
 - [The adoption journey](https://beegrrl.github.io/adoption-journey.html): Trace how handoffs between teams compound into durable use or leakage.
 - [What is the funnel trying to tell you?](https://beegrrl.github.io/what-is-the-funnel-trying-to-tell-you.html): Move from signals to diagnosis to the smallest useful test.
@@ -60,6 +60,6 @@ Eight strategy models, each built in a single file of vanilla HTML, CSS, and Jav
 
 ### Now
 
-📍 Seattle, WA · Remote  
-🎓 Doctoral candidate, DBA in Strategy & Innovation  
-🔎 Open to senior IC and leadership roles across product marketing, developer and platform marketing, partner and ecosystem GTM, community and lifecycle strategy, and focused fractional work.
+📍 Seattle, WA · Remote<br>
+🎓 DBA candidate in Strategy & Innovation, researching distributed decision-making, organization design, and dynamic capabilities in rapidly scaling technology ventures<br>
+🔎 Open to senior IC and leadership roles across growth, go-to-market, product marketing, partnerships, lifecycle, technical platforms, ecosystems, strategy and operations, and focused fractional work.
