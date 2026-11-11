@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://beegrrl.github.io/">
-    <img src="https://beegrrl.github.io/og-index.png" alt="Melissa Thorne. From strategy to repeatable growth. Original interactive models and live work across positioning, partnerships, launches, adoption, lifecycle, and operating systems." width="100%">
+    <img src="profile-banner.png" alt="Melissa Thorne. I market technical products and build the programs around them. Welcome to my portfolio. I will continue adding nerdy proof until someone makes me stop." width="100%">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ I market technical products and build the programs around them. That has meant p
 ### What's here
 
 - **[call-to-card](https://github.com/beegrrl/call-to-card):** a TypeScript command-line tool I built in about 4 hours. It turns a recorded sales call into a one-page cheat sheet on a competitor. [Case study](https://beegrrl.github.io/call-to-card.html) · [Code](https://github.com/beegrrl/call-to-card)
-- **Nine interactive decision models,** written and built by me in plain HTML, CSS and JavaScript. [See the portfolio](https://beegrrl.github.io/)
+- **Interactive decision models,** written and built by me in plain HTML, CSS and JavaScript. [See the portfolio](https://beegrrl.github.io/)
 
 Seattle, WA · Remote · Open to senior roles in product marketing, community, partnerships, and strategy and operations.
 
