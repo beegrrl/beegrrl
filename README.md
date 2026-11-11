@@ -18,7 +18,7 @@
 
 I work out what is holding growth back, decide what should move next, and align product, marketing, partners, and operations around one plan.
 
-My work spans positioning, audience strategy, launch and adoption, partner ecosystems, lifecycle and CRM, community, content, program governance, and the evidence loops that show where customers get value and where the system breaks. Product marketing is one tool within that broader operating scope. I have 15+ years of experience across Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony, and Electronic Arts.
+My work spans positioning, audience strategy, launch and adoption, partner ecosystems, lifecycle and CRM, community, content, program governance, and the evidence loops that show where customers get value and where the system breaks. Product marketing is one tool within that broader operating scope. I have 20+ years in technology, including 15+ years in developer and product marketing, at Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony and Electronic Arts.
 
 I write the work myself, from product narratives and investment cases to partner plans, technical education, and case studies. I use AI where it improves research, analysis, review, automation, or prototyping; the claim still has to be true and the system still has to work.
 
@@ -26,7 +26,7 @@ I write the work myself, from product narratives and investment cases to partner
 
 Nine original decision models, written and built by me in vanilla HTML, CSS, and JavaScript. They demonstrate the judgment behind the work without publishing a reusable company playbook.
 
-- [What deserves the next growth dollar?](https://beegrrl.github.io/what-deserves-the-next-growth-dollar.html): Decide whether the business should spend, fix, learn, or scale next—and whether paid, organic, product-led, partner, lifecycle, or community is the right lever.
+- [What deserves the next growth dollar?](https://beegrrl.github.io/what-deserves-the-next-growth-dollar.html): Decide whether the business should spend, fix, learn, or scale next, and whether paid, organic, product-led, partner, lifecycle, or community is the right lever.
 - [What the roadmap ships. What the budget feels.](https://beegrrl.github.io/roadmap-budget.html): Choose the true product claim that should lead in technical qualification, operating review, and budget approval.
 - [Earn the right to say it](https://beegrrl.github.io/earn-the-right-to-say-it.html): Decide whether a claim is ready, needs revision, requires expert review, or lacks support.
 - [Is the partnership worth the coordination?](https://beegrrl.github.io/partnership-value.html): Test fit, customer value, and learning value on both sides before accepting the operating cost.
@@ -50,10 +50,10 @@ Nine original decision models, written and built by me in vanilla HTML, CSS, and
 - Turned 26 Hashi partner workstreams into coordinated go-to-market plans across a five-phase launch and 56 cross-functional collaborators.
 - Led developer-facing positioning, launch, co-marketing, and adoption work for Chainlink CCIP, with additional work across Functions, Data Streams, Automation, and the Cross-Chain Token standard.
 - Grew a segmented developer newsletter organically from zero to 250K+ subscribers and built the operating model for a 250+ member network of credentialed technical creators.
-- Shipped 45+ AAA titles as an Audio Producer at Electronic Arts, including globally distributed consumer releases in The Sims franchise.
+- Shipped 45 AAA titles as an Audio Producer at Electronic Arts, including globally distributed consumer releases in The Sims franchise.
 
 ### Now
 
-📍 Seattle, WA · Remote<br>
-🎓 DBA candidate in Strategy & Innovation, researching distributed decision-making, organization design, and dynamic capabilities in rapidly scaling technology ventures<br>
-🔎 Open to senior IC and leadership roles across growth, go-to-market, product marketing, partnerships, lifecycle, technical platforms, ecosystems, strategy and operations, and select fractional work.
+Seattle, WA · Remote<br>
+DBA candidate in Strategy & Innovation, researching distributed decision-making, organization design, and dynamic capabilities in rapidly scaling technology ventures<br>
+Open to senior IC and leadership roles across growth, go-to-market, product marketing, partnerships, lifecycle, technical platforms, ecosystems, strategy and operations, and select fractional work.
