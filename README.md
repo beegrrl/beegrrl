@@ -38,6 +38,12 @@ Nine original decision models, written and built by me in vanilla HTML, CSS, and
 
 [Explore the full portfolio →](https://beegrrl.github.io/)
 
+### Hands-on build
+
+[call-to-card](https://github.com/beegrrl/call-to-card) is a TypeScript command-line tool I built in about 4 hours. It turns a recorded sales call into a first-draft battlecard, the cheat sheet a salesperson uses when a buyer brings up a competitor. It runs on Granola, the Claude API and PostHog.
+
+[Read the case study →](https://beegrrl.github.io/call-to-card.html) · [Watch the 2 minute run →](https://youtu.be/0nPxr9ubKjQ)
+
 ### Selected proof
 
 - Built the year-ahead audience, positioning, lifecycle, partner, and integrated marketing plans for Sui's Hashi, DeepBook Predict, and Gasless Transfers launches across Devnet, Testnet, and Mainnet.
