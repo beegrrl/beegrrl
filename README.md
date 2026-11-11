@@ -25,4 +25,4 @@ I market technical products and build the programs around them. That has meant p
 
 Seattle, WA · Remote · Open to senior roles in product marketing, community, partnerships, and strategy and operations.
 
-The degrees and certifications are on [LinkedIn](https://www.linkedin.com/in/beegirl/) for anyone curious.
+The degrees and certifications (along with several folks kind enough to [vouch](https://www.linkedin.com/in/beegirl/details/recommendations/?detailScreenTabIndex=0) for me as being a qualified human you should consider hiring) are on [LinkedIn](https://www.linkedin.com/in/beegirl/) for anyone curious.
