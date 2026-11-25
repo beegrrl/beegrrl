@@ -26,7 +26,7 @@ I made these work samples in November 2026, working solo with an AI coding partn
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle"> · About 8 hours
 <br>
-**Could someone else run my Sims 4 build challenge as I wrote it?** The brief was a starter home with 1 offensively orange room. I switched accounts in Muse, Meta’s AI agent, and tried 3 rule cards as if I were organizing the next round. Each time, Muse credited me as the creator but picked where everyone would build. That was the organizer’s call. I wrote a checklist for anyone sharing another creator’s rules with builders.
+**Could someone else run my Sims 4 build challenge as I wrote it?** The brief was a starter home with one offensively orange room. I switched accounts in Muse, Meta’s AI agent, and tried three rule cards as if I were organizing the next round. Each time, Muse credited me as the creator but picked where everyone would build. That was the organizer’s call. I wrote a checklist for anyone sharing another creator’s rules with builders.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle"> · About 4 hours
 <br>
