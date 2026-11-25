@@ -18,10 +18,13 @@
 
 My work has been product and developer marketing, community and advocate programs, partner launches, and the strategy and operations work that keeps them running. I have 20+ years in technology, including 15+ years in developer and product marketing, at Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony and Electronic Arts.
 
-### What's here
+### Selected projects
 
-- **[call-to-card](https://github.com/beegrrl/call-to-card):** a TypeScript command-line tool I built in about 4 hours. It turns a recorded sales call into a one-page cheat sheet on a competitor. [Case study](https://beegrrl.github.io/call-to-card.html) · [Code](https://github.com/beegrrl/call-to-card)
-- **Interactive decision models,** written and built by me in plain HTML, CSS and JavaScript. [See the portfolio](https://beegrrl.github.io/)
+- **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** · Sales enablement. I built a tool that drafts battlecards from sales calls and used four role-played calls to catch unsupported competitive claims.
+- **[The Sims challenge in Muse](https://beegrrl.github.io/can-you-play-my-challenge/)** · Community program design. I traced a Sims challenge through three handoffs. Muse kept my creator credit and chose the building lot I’d left to the host.
+- **[Patch Night](https://beegrrl.github.io/patch-night.html)** · Technical product marketing. I timed six account checks on Fastly and wrote a field brief a seller and an engineer can use to investigate launch-day delays.
+
+[Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
 Seattle, WA · Remote · Open to senior roles in product marketing, community, partnerships, and strategy and operations.
 
