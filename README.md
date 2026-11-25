@@ -20,15 +20,15 @@ My work has been product and developer marketing, community and advocate program
 
 I made these work samples in November 2026, working solo with an AI coding partner.
 
-**[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle"> · 4-hour cap
+**[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle"> · About 4 hours
 <br>
 **What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on 4 practice calls. The draft from 1 call promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
 
-**[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle"> · About 1 working day
+**[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle"> · About 8 hours
 <br>
 **Which decisions belong to the next host?** My Sims 4 build challenge called for a starter home with 1 offensively orange room. I passed 3 rule cards between 2 accounts in Muse, Meta’s AI agent. Each time, Muse credited me but picked where everyone would build. I’d left that to the host. I wrote a checklist for hosts running someone else’s challenge.
 
-**[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle"> · 4-hour cap
+**[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle"> · About 4 hours
 <br>
 **Were players still downloading the update, or had they already pressed Play?** I tested 2 cache settings on Fastly’s content delivery network. In my test, 5 of 6 simulated account checks finished about 2 seconds sooner when a VCL rule skipped the cache lookup. I turned that finding into a field brief for sales and engineering.
 
