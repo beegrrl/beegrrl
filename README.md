@@ -26,7 +26,7 @@ I made these 3 work samples for my portfolio in November 2026, working solo with
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**Which decisions belong to the next host?** I tested Muse, Meta’s AI agent, with a Sims 4 house-building challenge I made. I gave it 3 rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I made a checklist for the next host to use before sharing the rules with players.
+**Which decisions belong to the next host?** My Sims 4 build challenge called for a starter home with 1 offensively orange room. I passed 3 rule cards between 2 accounts in Muse, Meta’s AI agent. Each time, Muse credited me but picked where everyone would build. I’d left that to the host. I wrote a checklist for hosts running someone else’s challenge.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
