@@ -18,19 +18,19 @@ My work has been product and developer marketing, community and advocate program
 
 ## Recent projects
 
-I made these work samples for my portfolio in November 2026. I spent about four hours on each, working on my own.
+I made these portfolio samples in November 2026, working solo with AI coding tools. My hands-on time was about 4 hours per sample.
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
-**What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on four practice calls. One draft promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
+**What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on 4 practice calls. One draft promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**Which decisions belong to the next host?** I tested Muse, Meta’s AI assistant, with a Sims 4 house-building challenge I made. I gave it three rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I wrote a checklist to catch changes like that before the rules go to players.
+**Which decisions belong to the next host?** I tested Muse, Meta’s AI agent, with a Sims 4 house-building challenge I made. I gave it 3 rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I wrote 5 notes for the next host on what to check before sharing the rules.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
-**Were players still downloading the update, or had they already pressed Play?** I tested two cache settings on Fastly’s content delivery network. Five of six simulated account checks finished about two seconds sooner when a VCL rule skipped the cache lookup. I turned that finding into a troubleshooting guide for sales and engineering.
+**Were players still downloading the update, or had they already pressed Play?** I tested 2 cache settings on Fastly’s content delivery network. In my test, 5 of 6 simulated account checks finished about 2 seconds sooner when a VCL rule skipped the cache lookup. I turned that finding into a field brief for sales and engineering.
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
