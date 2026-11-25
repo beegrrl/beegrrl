@@ -18,15 +18,15 @@ My work has been product and developer marketing, community and advocate program
 
 ## Recent projects
 
-I made these portfolio samples in November 2026, working solo with AI coding tools. My hands-on time was about 4 hours per sample.
+I made these 3 work samples for my portfolio in November 2026, working solo with an AI coding partner. I capped Call-to-Card and Patch Night at 4 hours each. One Offensively Orange Room took about 1 working day.
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
-**What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on 4 practice calls. One draft promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
+**What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on 4 practice calls. The draft from 1 call promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**Which decisions belong to the next host?** I tested Muse, Meta’s AI agent, with a Sims 4 house-building challenge I made. I gave it 3 rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I wrote 5 notes for the next host on what to check before sharing the rules.
+**Which decisions belong to the next host?** I tested Muse, Meta’s AI agent, with a Sims 4 house-building challenge I made. I gave it 3 rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I made a checklist for the next host to use before sharing the rules with players.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
