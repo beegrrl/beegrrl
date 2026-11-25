@@ -16,7 +16,7 @@
 
 My work has been product and developer marketing, community and advocate programs, partner launches, and the strategy and operations work that keeps them running. I have 20+ years in technology, including 15+ years in developer and product marketing, at Sui Foundation, Chainlink Labs, Oracle, Salesforce, Zulily, Sony and Electronic Arts.
 
-## Recent work
+## Recent projects
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
