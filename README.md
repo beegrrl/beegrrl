@@ -20,15 +20,15 @@ My work has been product and developer marketing, community and advocate program
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
-**I turn sales calls into guides for the next rep.** My tool reads Granola transcripts, drafts answers with the Claude API and tracks buyer objections in PostHog. One draft from a practice call promised mobile app support nobody had checked. I rewrote that answer.
+**I built a tool that turns sales calls into guides for the next rep.** It uses Granola transcripts and the Claude API to draft answers when buyers compare products. I tracked objections from four practice calls in PostHog and rewrote a draft that promised mobile app support the rep couldn’t verify.
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**I wrote a checklist for hosts to catch rule changes before players see them.** In my Sims 4 building challenge, the next host gets to choose where everyone builds. I asked Muse, Meta’s AI assistant, to turn three versions of my rule card into instructions for players. It credited me but picked the same site all three times.
+**I designed a house-building contest that Sims 4 players could take turns hosting.** I tested whether Muse, Meta’s AI assistant, could pass on my rules. All three times I gave it a rule card, it credited me but chose where everyone would build. That was the host’s call. I wrote a checklist so the next host could catch changes like that.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
-**I test the product before I write the field guide.** I tried two Fastly VCL cache settings. On one, five of six simulated account checks took about two seconds longer. I’d ask the studio whether players got stuck downloading or after pressing Play.
+**I wrote a guide to help sales and engineering tell a slow download from a slow game start.** I simulated six players pressing Play after an update and timed their account checks on Fastly’s content delivery network. When a VCL rule let the checks skip the cache lookup, five finished about two seconds sooner.
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
