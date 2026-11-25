@@ -20,9 +20,9 @@ My work has been product and developer marketing, community and advocate program
 
 ### Selected projects
 
-- **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** · Sales enablement. I built a tool that drafts battlecards from sales calls and used four role-played calls to catch unsupported competitive claims.
+- **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** · Sales enablement. I built a tool that drafts battlecards from sales calls. Four role-played calls exposed competitive claims a rep couldn’t defend.
 - **[The Sims challenge in Muse](https://beegrrl.github.io/can-you-play-my-challenge/)** · Community program design. I traced a Sims challenge through three handoffs. Muse kept my creator credit and chose the building lot I’d left to the host.
-- **[Patch Night](https://beegrrl.github.io/patch-night.html)** · Technical product marketing. I timed six account checks on Fastly and wrote a field brief a seller and an engineer can use to investigate launch-day delays.
+- **[Patch Night](https://beegrrl.github.io/patch-night.html)** · Technical product marketing. My model missed a two-second wait. I measured it on Fastly and wrote a field brief for teams investigating a slow game launch.
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
