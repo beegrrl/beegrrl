@@ -24,7 +24,7 @@ My work has been product and developer marketing, community and advocate program
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**I test what happens when a community program changes hands.** I sent three Sims 4 challenge cards to a second account in Muse, Meta’s AI assistant. Muse gave me credit every time. It also picked where everyone would build. I’d left that to the host.
+**I wrote a checklist for hosts to catch rule changes before players see them.** In my Sims 4 building challenge, the next host gets to choose where everyone builds. I asked Muse, Meta’s AI assistant, to turn three versions of my rule card into instructions for players. It credited me but picked the same site all three times.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
