@@ -18,6 +18,8 @@ My work has been product and developer marketing, community and advocate program
 
 ## Recent projects
 
+I built these on my own in November 2026, about four hours each. I wanted to stretch my legs and show hiring managers how I work.
+
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
 **I built a tool that turns sales calls into guides for the next rep.** It uses Granola transcripts and the Claude API to draft answers when buyers compare products. I tracked objections from four practice calls in PostHog and rewrote a draft that promised mobile app support the rep couldn’t verify.
