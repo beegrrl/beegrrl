@@ -20,15 +20,15 @@ My work has been product and developer marketing, community and advocate program
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
-I built a tool that turns sales calls into competitor guides for reps. In a practice run, it promised mobile app support the rep couldn’t verify. I rewrote that answer.
+**I turn sales calls into guides for the next rep.** My tool reads Granola transcripts, drafts answers with the Claude API and tracks buyer objections in PostHog. One draft from a practice call promised mobile app support nobody had checked. I rewrote that answer.
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-I handed off a Sims building challenge through Muse, Meta’s AI assistant. In all three card tests, Muse credited me and chose where players would build. I’d left that to the host.
+**I test what happens when a community program changes hands.** I sent three Sims 4 challenge cards to a second account in Muse, Meta’s AI assistant. Muse gave me credit every time. It also picked where everyone would build. I’d left that to the host.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
-I measured a two-second delay in a simulated game launch on Fastly. My field guide helps sales and engineering tell a slow download from a slow account check.
+**I test the product before I write the field guide.** I tried two Fastly VCL cache settings. On one, five of six simulated account checks took about two seconds longer. I’d ask the studio whether players got stuck downloading or after pressing Play.
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
