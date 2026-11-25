@@ -18,19 +18,19 @@ My work has been product and developer marketing, community and advocate program
 
 ## Recent projects
 
-I built these on my own in November 2026, about four hours each. I wanted to stretch my legs and show hiring managers how I work.
+I made these work samples for my portfolio in November 2026. I spent about four hours on each, working on my own.
 
 **[Call-to-Card](https://beegrrl.github.io/call-to-card.html)** <img src="assets/sales-enablement.svg" alt="Sales enablement" align="absmiddle">
 <br>
-**I built a tool that turns sales calls into guides for the next rep.** It uses Granola transcripts and the Claude API to draft answers when buyers compare products. I tracked objections from four practice calls in PostHog and rewrote a draft that promised mobile app support the rep couldn’t verify.
+**What can a rep promise a buyer on the next call?** My prototype drafts sales guides from Granola transcripts with the Claude API and tracks buyer objections in PostHog. I tested it on four practice calls. One draft promised mobile app support nobody had checked. I rewrote it so the rep would confirm it in writing.
 
 **[One Offensively Orange Room](https://beegrrl.github.io/one-offensively-orange-room/)** <img src="assets/community-program-design.svg" alt="Community program design" align="absmiddle">
 <br>
-**I designed a house-building contest that Sims 4 players could take turns hosting.** I tested whether Muse, Meta’s AI assistant, could pass on my rules. All three times I gave it a rule card, it credited me but chose where everyone would build. That was the host’s call. I wrote a checklist so the next host could catch changes like that.
+**Which decisions belong to the next host?** I tested Muse, Meta’s AI assistant, with a Sims 4 house-building challenge I made. I gave it three rule cards for a new host. Each time, Muse credited me but picked the building site I’d left to the host. I wrote a checklist to catch changes like that before the rules go to players.
 
 **[Patch Night](https://beegrrl.github.io/patch-night.html)** <img src="assets/technical-product-marketing.svg" alt="Technical product marketing" align="absmiddle">
 <br>
-**I wrote a guide to help sales and engineering tell a slow download from a slow game start.** I simulated six players pressing Play after an update and timed their account checks on Fastly’s content delivery network. When a VCL rule let the checks skip the cache lookup, five finished about two seconds sooner.
+**Were players still downloading the update, or had they already pressed Play?** I tested two cache settings on Fastly’s content delivery network. Five of six simulated account checks finished about two seconds sooner when a VCL rule skipped the cache lookup. I turned that finding into a troubleshooting guide for sales and engineering.
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
