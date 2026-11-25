@@ -32,6 +32,6 @@ My work has been product and developer marketing, community and advocate program
 
 [Call-to-Card source code](https://github.com/beegrrl/call-to-card) · [Interactive decision models](https://beegrrl.github.io/#models)
 
-Seattle, WA · Remote · Open to senior roles in product marketing, community, partnerships, and strategy and operations.
+**Seattle, WA · Remote · Open to senior roles in product marketing, community, partnerships, and strategy and operations.**
 
 _The degrees and certifications (along with several folks kind enough to [vouch](https://www.linkedin.com/in/beegirl/details/recommendations/?detailScreenTabIndex=0) for me as being a qualified human you should consider hiring) are on [LinkedIn](https://www.linkedin.com/in/beegirl/) for anyone curious._
